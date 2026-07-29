@@ -1,4 +1,3 @@
-
 # 💒 Andy & Laura's Wedding Guestbook
 An AI-powered cloud guestbook for Andy Low & Laura Kauderer's wedding on **19 September 2026**.
 ## Features
@@ -29,7 +28,7 @@ git init
 git add .
 git commit -m "Wedding guestbook - initial commit"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/wedding-guestbook.git
+git remote add origin https://github.com/YOUR_USERNAME/wedding-guest-book-andy-laura.git
 git push -u origin main
 ```
 ### Step 3: Deploy on Vercel
