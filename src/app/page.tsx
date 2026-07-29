@@ -8,7 +8,7 @@ export default function HomePage() {
       <section className="relative overflow-hidden">
         <div
           className="absolute inset-0 bg-cover bg-center"
-          style={{ backgroundImage: "url(/images/wedding-hero.jpg)" }}
+          style={{ backgroundImage: "url(/images/wedding-hero.svg)" }}
         />
         <div className="absolute inset-0 bg-gradient-to-b from-[#FDF8F4]/30 via-[#FDF8F4]/10 to-[#FDF8F4]" />
         <div className="relative z-10 flex flex-col items-center justify-center py-24 px-4 text-center sm:py-32 md:py-40">
@@ -38,7 +38,7 @@ export default function HomePage() {
       {/* Floral Divider */}
       <div className="flex justify-center -mt-4">
         <img
-          src="/images/floral-divider.png"
+          src="/images/floral-divider.svg"
           alt="floral divider"
           className="h-16 object-contain opacity-80 sm:h-20"
         />

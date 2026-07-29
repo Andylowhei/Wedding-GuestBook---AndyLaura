@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="600" viewBox="0 0 1600 600">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#FDEBD3" />
+      <stop offset="1" stop-color="#FDF8F4" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#g)" />
+  <g transform="translate(80,60)">
+    <text x="0" y="0" font-family="Cormorant Garamond, serif" font-size="64" fill="#3D3027">Andy <tspan font-style="italic" font-weight="300" fill="#C4956A">&amp;</tspan> Laura</text>
+    <text x="0" y="80" font-family="Inter, system-ui, sans-serif" font-size="28" fill="#8B7355">19 September 2026</text>
+  </g>
+  <g transform="translate(1200,480) scale(0.8)">
+    <path d="M10 10 C 20 0, 40 0, 50 10 S 80 40, 90 10" stroke="#C4956A" fill="none" stroke-width="3" opacity="0.6" />
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200">
+  <defs>
+    <linearGradient id="fg" x1="0" x2="1">
+      <stop offset="0" stop-color="#FDF8F4" />
+      <stop offset="1" stop-color="#FFF4E5" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="transparent" />
+  <g fill="#C4956A" opacity="0.9">
+    <circle cx="60" cy="100" r="36" />
+    <circle cx="120" cy="80" r="28" />
+    <circle cx="180" cy="110" r="20" />
+    <circle cx="240" cy="70" r="18" />
+    <circle cx="300" cy="95" r="22" />
+  </g>
+  <text x="420" y="115" font-family="Inter, system-ui, sans-serif" font-size="20" fill="#8B7355">Floral Divider</text>
+</svg>
