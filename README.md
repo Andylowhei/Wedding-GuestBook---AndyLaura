@@ -1,5 +1,4 @@
-# Wedding-GuestBook---AndyLaura
-For friends to leave wishes for our wedding, 
+
 # 💒 Andy & Laura's Wedding Guestbook
 An AI-powered cloud guestbook for Andy Low & Laura Kauderer's wedding on **19 September 2026**.
 ## Features
