@@ -1,0 +1,9 @@
+Bash
+
+git init
+git add .
+git commit -m "Wedding guestbook"
+# Create a repo on GitHub, then:
+git remote add origin https://github.com/YOUR-USERNAME/wedding-guestbook.git
+git branch -M main
+git push -u origin main
